@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "424461107992",
+    "project_id": "login-auth-894c9",
+    "storage_bucket": "login-auth-894c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424461107992:android:7dbe743bcfb66b4f53d46d",
+        "android_client_info": {
+          "package_name": "com.getx.app.loggingAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424461107992-fk20lgidkn5llcec11idrh221qldahsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0B5t8HU6necbFgYi1LTPGAR374WCEEOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424461107992-fk20lgidkn5llcec11idrh221qldahsf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "424461107992-jf8v6scph5ig9akiqghe982bgg6r9e8h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.getx.app.loggingAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
